@@ -7,64 +7,66 @@
 
 ---
 
-## Overview
+## 🎥 Demo Video
 
-Phishing is a cyber attack method that relies on social engineering to trick users into revealing confidential information. This project provides a detailed analysis of phishing attack techniques, detection mechanisms, and defense strategies. It aims to educate users and cybersecurity professionals about current phishing threats and future defense mechanisms using real-world case studies and research-backed data.
-
----
-
-## 🛠Project Contents
-
-| File/Folder                     | Description                                      |
-|--------------------------------|--------------------------------------------------|
-| `research_paper.pdf`           | Detailed research report on phishing attacks     |
-| `presentation.pdf`             | PDF version of the slide deck                    |
-| `README.md`                    | This documentation file                          |
+Watch the full walkthrough here:  
+👉 [YouTube Demo Link](https://youtu.be/VReVxEfigO0)  
 
 ---
 
-## Problem Statement
+## 🛠 Project Contents
+
+| File/Folder           | Description                                           |
+|------------------------|-------------------------------------------------------|
+| `research_paper.pdf`   | Detailed research report on phishing attacks         |
+| `presentation.pdf`     | PDF version of the project slide deck                |
+| `demo_script.md`       | Full video demo narration script                     |
+| `README.md`            | This documentation file                              |
+
+---
+
+## 📌 Problem Statement
 
 Despite advances in security technology, phishing remains effective due to human error. Social engineering attacks bypass traditional defenses and result in data breaches, financial loss, and organizational damage.
 
 ---
 
-## 🧠 Research Objectives
+## 🎯 Research Objectives
 
-- Analyze the evolution of phishing techniques
-- Explore detection technologies (AI/ML, sandboxing, header analysis)
-- Propose practical prevention strategies
-- Study real-world phishing cases
-- Examine future developments in phishing defense
+- Analyze the evolution of phishing techniques  
+- Explore detection technologies (AI/ML, sandboxing, header analysis)  
+- Propose practical prevention strategies  
+- Study real-world phishing cases  
+- Examine future developments in phishing defense  
 
 ---
 
 ## 🔍 Topics Covered
 
-- 📩 **Phishing Methods**: Email phishing, spear phishing, whaling, vishing, smishing, etc.
-- 🧪 **Detection Mechanisms**: Header inspection, AI models, image/logo analysis
-- 🔐 **Prevention Techniques**: Multi-factor authentication, training, email security protocols
-- 📈 **Real-World Attacks**: Twitter hack, Colonial Pipeline, Google/Facebook vendor scam
-- 🧭 **Future Trends**: AI-driven defense, behavioral biometrics, threat intelligence sharing
+- 📩 **Phishing Methods**: Email phishing, spear phishing, whaling, vishing, smishing, etc.  
+- 🧪 **Detection Mechanisms**: Header inspection, AI models, image/logo analysis  
+- 🔐 **Prevention Techniques**: Multi-factor authentication, user training, email security protocols  
+- 📈 **Real-World Attacks**: Twitter hack, Colonial Pipeline, Google/Facebook vendor scam  
+- 🧭 **Future Trends**: AI-driven defense, behavioral biometrics, threat intelligence sharing  
 
 ---
 
 ## 🧪 Key Technologies & Concepts
 
-- Social Engineering
-- Natural Language Processing (NLP)
-- URL and Email Analysis
-- SPF/DKIM/DMARC
-- Security Awareness Programs
+- Social Engineering  
+- Natural Language Processing (NLP)  
+- URL and Email Analysis  
+- SPF/DKIM/DMARC  
+- Security Awareness Programs  
 
 ---
 
 ## 💡 Key Takeaways
 
-- Human behavior is the primary target of phishing.
-- Awareness training is just as important as technical solutions.
-- AI is shaping the future of phishing detection and prevention.
-- Ethical considerations are crucial as phishing undermines digital trust.
+- Human behavior is the primary target of phishing.  
+- Awareness training is just as important as technical solutions.  
+- AI is shaping the future of phishing detection and prevention.  
+- Ethical considerations are crucial as phishing undermines digital trust.  
 
 ---
 
@@ -83,8 +85,16 @@ Despite advances in security technology, phishing remains effective due to human
 
 ---
 
+## ⚖️ License & Disclaimer
+
+**License**: MIT License  
+**Disclaimer**: This project is strictly for educational and research purposes. Do not use any information here to perform unauthorized testing or attacks.
+
+---
+
 ## 📬 Contact
 
 This project is submitted under the Digisuraksha Parhari Foundation Internship Program 2025.  
-For any queries: **sayooj.mohan@cybermail.com** (example)
+For any queries: **sayooj.mohan1010@gmail.com** 
 
+---
